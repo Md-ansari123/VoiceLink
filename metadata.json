@@ -1,0 +1,8 @@
+{
+  "name": "VoiceLink AAC",
+  "description": "An accessible, touch-to-speech AAC application for individuals with speech impairments. Features offline TTS, English/Hindi support, and a high-contrast interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
